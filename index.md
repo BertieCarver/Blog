@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Bertie Carver-Prue's Blog
 ---
 
