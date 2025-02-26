@@ -1,4 +1,4 @@
 ---
-title: Bertie's Blog
+title: Bertie Carver-Prue's Blog
 ---
 
