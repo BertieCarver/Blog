@@ -12,4 +12,4 @@ I have chosen to use github pages as:
 - It is free to use.
 - It will help me to develop my skills in git and github.
 
-Throughout the development of this blog, I hope to continue to develop my markdown and web design skills. In future I may consider writing my own jekyll theme, allowing me to further customise this blog.
+Throughout the development of this blog, I hope to continue to develop my markdown and web design skills. In future I may consider writing my own jekyll theme, allowing me to further customise this blog, or even choose to upgrade from jekyll and start to learn HTML and CSS in order to have greater control over my blog. I may also choose to develop my skills in networks and hosting by choosing to self host this website on my own hardware. But for now, I am happy with the ease of use that is supplied with github pages and Jekyll, as I have managed to set up this blog in under an hour.
