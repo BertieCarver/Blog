@@ -11,3 +11,5 @@ I have chosen to use github pages as:
 - I can easily upgrade the blog by uploading the posts as markdown files if I want to upgrade in the future.
 - It is free to use.
 - It will help me to develop my skills in git and github.
+
+Throughout the development of this blog, I hope to continue to develop my markdown and web design skills. In future I may consider writing my own jekyll theme, allowing me to further customise this blog.
